@@ -1,3 +1,2 @@
 This is the main file
 This is feature 1 in main branch.
-This is feature 2 in main branch.
